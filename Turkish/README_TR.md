@@ -36,7 +36,7 @@ Söz konusu aşağıdaki sorular [Paul Irish](http://paulirish.com) ([@paul_iris
 ####<a name='general'>Genel Sorular:</a>
 
 * Dün -ya da bu hafta- neler öğrendin?
-* What excites or interests you about coding?
+* Kodlamada ilgini çeken ya da seni heyecanlandıran şey nedir?
 * Bize biraz geliştirme ortamından bahset. -İşletim Sistemi, Web Tarayıcı, Araçlar, Kod Editörü/IDE, vb.-
 * Web sayfasını oluştururken hangi adımları takip edersin ?
 * "Aşamalı geliştirme" ile "kabul edilebilir etkinlik düşüşü" arasında ne fark vardır?
@@ -58,9 +58,9 @@ Söz konusu aşağıdaki sorular [Paul Irish](http://paulirish.com) ([@paul_iris
   * `issue :retab! command`
 * Basit bir slayt/galeri sayfası oluşturun
   * JS kodu kullanılmaması halinde artı puan.
-* What tools do you use to test your code's performance?
+* Yazdığın kodun performansını hangi araçlar ile test edersin?
   * Profiler, JSPerf, Dromaeo
-* If you could master one technology this year, what would it be?
+* Bu yıl bir teknolojide uzmanlaşsaydın, bu ne olurdu?
 * Explain the importance of standards and standards bodies.
 * What is FOUC? How do you avoid FOUC?
 
